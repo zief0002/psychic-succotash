@@ -1,0 +1,61 @@
+---
+title: "Repository for EPSY 5261"
+subtitle: "Fall 2025"
+date: today
+---
+
+
+
+
+## Course Materials
+
+<nav aria-label="materials">
+- [Syllabus](https://docs.google.com/document/d/1LvY4n32EHN4ITkMn4kNAWxeEK-SFSBaYmipysFgAAhY/edit?usp=sharing)
+- [Textbook: An Introduction to Data Analysis](https://zief0002.github.io/epsy-5261/)
+- [CSV Data Files (ZIP File)](https://github.com/zief0002/psychic-succotash/raw/refs/heads/main/files/data.zip)
+- [Data Dictionaries](https://zief0002.github.io/epsy-5261/09-00-data-codebooks.html)
+<!-- - [R Scripts (ZIP File)](https://github.com/zief0002/psychic-succotash/raw/refs/heads/main/files/R%20Scripts.zip) -->
+</nav>
+
+<br />
+
+
+## Assignments
+
+<nav aria-label="assignments">
+- [Assignment 1: Introduction to Coding and Using R](https://docs.google.com/document/d/1VBPeSnOnT3qWQyhnn5m91Lk6o1eCobVEjkbMznlw2Mc/edit?usp=sharing)
+- [Assignment 2: Estimating Uncertainty and Comparing Data to a Standard](https://docs.google.com/document/d/1FtDxFzQ7QOND5-BICZU0yxAVPKkfsenMrIARuL5W9AE/edit?usp=sharing)
+- [Assignment 3: Study Design and Hypothesis Tests for Comparing Groups](https://docs.google.com/document/d/1qZoPbMAvrYPn0FFjInI9Sw3a81RiErevUNJ4ydt0HQM/edit?usp=sharing)
+- [Assignment 4: Confidence Intervals](https://docs.google.com/document/d/1ty8DGQ2ccWd6CB5OM36P05ijy78oQe2GIYGwwFl7tx4/edit?usp=sharing)
+- [Assignment 5: Simple Linear Regression](https://docs.google.com/document/d/1O9JXHcMq9gzbcTkDsSbFoNqRuRH_mi4nS9CvoDzGk0o/edit?usp=sharing)
+</nav>
+
+<br />
+
+
+### How do I Submit the Assignments?
+
+Create a PDF of your responses and submit the PDF and R script file (the .R file) via email to both the instructor and TA. Also cc any group members. Before you submit the assignment check that:
+
+<nav aria-label="how">
+- All group members’ names are on the assignment.
+- All tables are numbered and have a caption.
+- All figures are numbered and have a caption and are re-sized to not take up more page space than is necessary to read them.
+- No R syntax is included in the assignment responses document (it should be in your script file!) unless the question specifically asks for the syntax to be included. If there is R syntax included, be sure that it is typeset in a monospaced font (e.g., Courier, Inconsolata).
+</nav>
+
+
+<br />
+
+<!-- ## Worksheets -->
+
+<!-- <nav aria-label="worksheets"> -->
+<!-- - [Using RStudio](https://docs.google.com/document/d/1rDpvE35orNK6CgCCHjZw_t2mJ1ueQUNj37Dxb576PxE/edit?usp=sharing) -->
+<!-- - [Learning dplyr](https://docs.google.com/document/d/177DimhBayb9tGOdUaDOU8-1AmKyEPQvy_xtgwwvjzJ0/edit?usp=sharing) -->
+<!-- - [Learning ggplot2](https://docs.google.com/document/d/1UqqcEhuQrBNCdfBk__2BFLbSixoBTFTxPEWfUqhBbzs/edit?usp=sharing) -->
+<!-- - [Simple Regression](https://docs.google.com/document/d/17_jumJt_LJbzvSgAQirl9jghgkMbQp1aDL1g5RCuczM/edit?usp=sharing) -->
+<!-- - [z-Scores](https://docs.google.com/document/d/1-JCvpKVn9XiZQSGxsdxL6fPRmSYE-V4Wed7m8eMbf4o/edit?usp=sharing) -->
+<!-- - [Displaying Effects from a Multiple Regression Model](https://docs.google.com/document/d/1zePvMG0YcaCyc4hQY1bt-YR1O1zQ-do1vr_Gowr2elA/edit?usp=sharing) -->
+<!-- - [Discussion: Astrological Signs and Hospitalization](https://docs.google.com/document/d/1uzosfdCtdSU-a9zPL_cUaR2KsGwZEXw-9DMArvvyEaA/edit?usp=sharing) -->
+<!-- - [Interaction Effects](https://docs.google.com/document/d/1qyU111rVC1NL2H3i1AIJt6tv0ofstffBntzVWZEEZZs/edit?usp=sharing) -->
+<!-- </nav> -->
