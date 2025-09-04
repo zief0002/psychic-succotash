@@ -13,6 +13,7 @@ date: today
 - [Syllabus](https://docs.google.com/document/d/1RrCMWHwKx2LDPkCoWlHKhIeItpuVHp6D8M2snkl6Egw/edit?usp=sharing)
 - [Textbook: An Introduction to Data Analysis](https://zief0002.github.io/epsy-5261/)
 - [Course Materials (ZIP File)](https://github.com/zief0002/psychic-succotash/raw/refs/heads/main/files/epsy-5261-materials.zip)
+- [Slides (ZIP File)](https://github.com/zief0002/psychic-succotash/raw/refs/heads/main/files/epsy-5261-slides.zip)
 - [Data Dictionaries](https://zief0002.github.io/epsy-5261/09-00-data-codebooks.html)
 <!-- - [R Scripts (ZIP File)](https://github.com/zief0002/psychic-succotash/raw/refs/heads/main/files/R%20Scripts.zip) -->
 </nav>
