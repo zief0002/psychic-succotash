@@ -25,6 +25,7 @@ date: today
 
 <nav aria-label="assignments">
 - [Assignment 1: Introduction to Coding and Using R](https://docs.google.com/document/d/1VBPeSnOnT3qWQyhnn5m91Lk6o1eCobVEjkbMznlw2Mc/edit?usp=sharing)
+  + [Example Script file](https://github.com/zief0002/psychic-succotash/raw/refs/heads/main/files/variables-and-graphs-activity.R)
 - [Assignment 2: Estimating Uncertainty and Comparing Data to a Standard](https://docs.google.com/document/d/1FtDxFzQ7QOND5-BICZU0yxAVPKkfsenMrIARuL5W9AE/edit?usp=sharing)
 - [Assignment 3: Study Design and Hypothesis Tests for Comparing Groups](https://docs.google.com/document/d/1qZoPbMAvrYPn0FFjInI9Sw3a81RiErevUNJ4ydt0HQM/edit?usp=sharing)
 - [Assignment 4: Confidence Intervals](https://docs.google.com/document/d/1ty8DGQ2ccWd6CB5OM36P05ijy78oQe2GIYGwwFl7tx4/edit?usp=sharing)
